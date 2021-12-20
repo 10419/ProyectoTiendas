@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/Imagenes/23ae71d8325b146ca6d294244efe9ad5.png</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/Imagenes/eliminar.png</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/IGU/clientes/EiminarCliJDialog.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/IGU/Ventas/EliVentJDialog.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/implementacion/ImplPersona.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/IGU/clientes/ClientesJDialog.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/valores/Detalle.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/interfacesDao/IProductosDao.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/valores/Cliente.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/Imagenes/Carrito-de-compras.png</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/IGU/LoginJFrame.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/valores/Producto.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/IGU/clientes/VistaClien.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/Imagenes/Nventa.png</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/Imagenes/Dinero.jpg</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/valores/Persona.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/icons/download.png</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/conexion/ConexionDB.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/Imagenes/login.jpg</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/Imagenes/download_1.png</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/Imagenes/LuiYiX.png</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/IGU/Productos/InfoProJDialog.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/Imagenes/download_2.png</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/newproyect/NewProyect.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/Imagenes/download.jpg</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/Imagenes/3635122.png</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/Imagenes/buscarrr.png</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/IGU/Ventas/InformeVJDialog.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/utils/Generator.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/interfacesDao/IClientesDao.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/interfacesDao/ICPersonasDao.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/IGU/Productos/ProductosEliJDialog.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/implementacion/ImplDaoProducto.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/IGU/Productos/ProductosJDialog.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/implementacion/ImplCliente.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/Imagenes/ventajas-256x256.jpg</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/Imagenes/Luiyix%20(1).png</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/IGU/Productos/ProductosMoJDialog.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/Imagenes/download.png</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/IGU/MenuFrame.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/interfacesDao/VentaDao.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/implementacion/ImplVentasDao.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/valores/venta.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/IGU/Ventas/VentasJDialog.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/Imagenes/LUI.png</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/Imagenes/GuardarTodo.png</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/Imagenes/Actualizar%20(2).png</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/IGU/clientes/ModificarCliJDialog.java</file>
+            <file>file:/C:/Users/INTEL/Documents/NetBeansProjects/NewProyect/src/Imagenes/LuiYiX_1.png</file>
+        </group>
+    </open-files>
+</project-private>
